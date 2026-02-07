@@ -1,4 +1,4 @@
-# project-2-tableau
+# pr-2-tableau
 
 # Airline Flight Performance Dashboard
 
